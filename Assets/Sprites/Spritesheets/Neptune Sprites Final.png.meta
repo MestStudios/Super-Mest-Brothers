@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6889f0f985f835a4d8e9c43f94ab293a
-timeCreated: 1427739914
+timeCreated: 1428602956
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -20,6 +20,110 @@ TextureImporter:
     21300026: Neptune Sprites Final_13
     21300028: Neptune Sprites Final_14
     21300030: Neptune Sprites Final_15
+    21300032: Neptune Sprites Final_16
+    21300034: Neptune Sprites Final_17
+    21300036: Neptune Sprites Final_18
+    21300038: Neptune Sprites Final_19
+    21300040: Neptune Sprites Final_20
+    21300042: Neptune Sprites Final_21
+    21300044: Neptune Sprites Final_22
+    21300046: Neptune Sprites Final_23
+    21300048: Neptune Sprites Final_24
+    21300050: Neptune Sprites Final_25
+    21300052: Neptune Sprites Final_26
+    21300054: Neptune Sprites Final_27
+    21300056: Neptune Sprites Final_28
+    21300058: Neptune Sprites Final_29
+    21300060: Neptune Sprites Final_30
+    21300062: Neptune Sprites Final_31
+    21300064: Neptune Sprites Final_32
+    21300066: Neptune Sprites Final_33
+    21300068: Neptune Sprites Final_34
+    21300070: Neptune Sprites Final_35
+    21300072: Neptune Sprites Final_36
+    21300074: Neptune Sprites Final_37
+    21300076: Neptune Sprites Final_38
+    21300078: Neptune Sprites Final_39
+    21300080: Neptune Sprites Final_40
+    21300082: Neptune Sprites Final_41
+    21300084: Neptune Sprites Final_42
+    21300086: Neptune Sprites Final_43
+    21300088: Neptune Sprites Final_44
+    21300090: Neptune Sprites Final_45
+    21300092: Neptune Sprites Final_46
+    21300094: Neptune Sprites Final_47
+    21300096: Neptune Sprites Final_48
+    21300098: Neptune Sprites Final_49
+    21300100: Neptune Sprites Final_50
+    21300102: Neptune Sprites Final_51
+    21300104: Neptune Sprites Final_52
+    21300106: Neptune Sprites Final_53
+    21300108: Neptune Sprites Final_54
+    21300110: Neptune Sprites Final_55
+    21300112: Neptune Sprites Final_56
+    21300114: Neptune Sprites Final_57
+    21300116: Neptune Sprites Final_58
+    21300118: Neptune Sprites Final_59
+    21300120: Neptune Sprites Final_60
+    21300122: Neptune Sprites Final_61
+    21300124: Neptune Sprites Final_62
+    21300126: Neptune Sprites Final_63
+    21300128: Neptune Sprites Final_64
+    21300130: Neptune Sprites Final_65
+    21300132: Neptune Sprites Final_66
+    21300134: Neptune Sprites Final_67
+    21300136: Neptune Sprites Final_68
+    21300138: Neptune Sprites Final_69
+    21300140: Neptune Sprites Final_70
+    21300142: Neptune Sprites Final_71
+    21300144: Neptune Sprites Final_72
+    21300146: Neptune Sprites Final_73
+    21300148: Neptune Sprites Final_74
+    21300150: Neptune Sprites Final_75
+    21300152: Neptune Sprites Final_76
+    21300154: Neptune Sprites Final_77
+    21300156: Neptune Sprites Final_78
+    21300158: Neptune Sprites Final_79
+    21300160: Neptune Sprites Final_80
+    21300162: Neptune Sprites Final_81
+    21300164: Neptune Sprites Final_82
+    21300166: Neptune Sprites Final_83
+    21300168: Neptune Sprites Final_84
+    21300170: Neptune Sprites Final_85
+    21300172: Neptune Sprites Final_86
+    21300174: Neptune Sprites Final_87
+    21300176: Neptune Sprites Final_88
+    21300178: Neptune Sprites Final_89
+    21300180: Neptune Sprites Final_90
+    21300182: Neptune Sprites Final_91
+    21300184: Neptune Sprites Final_92
+    21300186: Neptune Sprites Final_93
+    21300188: Neptune Sprites Final_94
+    21300190: Neptune Sprites Final_95
+    21300192: Neptune Sprites Final_96
+    21300194: Neptune Sprites Final_97
+    21300196: Neptune Sprites Final_98
+    21300198: Neptune Sprites Final_99
+    21300200: Neptune Sprites Final_100
+    21300202: Neptune Sprites Final_101
+    21300204: Neptune Sprites Final_102
+    21300206: Neptune Sprites Final_103
+    21300208: Neptune Sprites Final_104
+    21300210: Neptune Sprites Final_105
+    21300212: Neptune Sprites Final_106
+    21300214: Neptune Sprites Final_107
+    21300216: Neptune Sprites Final_108
+    21300218: Neptune Sprites Final_109
+    21300220: Neptune Sprites Final_110
+    21300222: Neptune Sprites Final_111
+    21300224: Neptune Sprites Final_112
+    21300226: Neptune Sprites Final_113
+    21300228: Neptune Sprites Final_114
+    21300230: Neptune Sprites Final_115
+    21300232: Neptune Sprites Final_116
+    21300234: Neptune Sprites Final_117
+    21300236: Neptune Sprites Final_118
+    21300238: Neptune Sprites Final_119
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -68,162 +172,1202 @@ TextureImporter:
     - name: Neptune Sprites Final_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 149
-        width: 45
-        height: 30
+        x: 13
+        y: 419
+        width: 17
+        height: 28
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_1
       rect:
         serializedVersion: 2
-        x: 45
-        y: 149
-        width: 45
-        height: 30
+        x: 57
+        y: 419
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_2
       rect:
         serializedVersion: 2
-        x: 90
-        y: 149
-        width: 45
-        height: 30
+        x: 101
+        y: 419
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 119
-        width: 45
-        height: 30
+        x: 145
+        y: 419
+        width: 23
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_4
       rect:
         serializedVersion: 2
-        x: 45
-        y: 119
-        width: 45
-        height: 30
+        x: 183
+        y: 419
+        width: 23
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_5
       rect:
         serializedVersion: 2
-        x: 90
-        y: 119
-        width: 45
-        height: 30
+        x: 233
+        y: 419
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 89
-        width: 45
-        height: 30
+        x: 277
+        y: 419
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_7
       rect:
         serializedVersion: 2
-        x: 45
-        y: 89
-        width: 45
-        height: 30
+        x: 321
+        y: 419
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_8
       rect:
         serializedVersion: 2
-        x: 90
-        y: 89
-        width: 45
-        height: 30
+        x: 13
+        y: 389
+        width: 24
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 59
-        width: 45
-        height: 30
+        x: 51
+        y: 389
+        width: 29
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_10
       rect:
         serializedVersion: 2
-        x: 45
-        y: 59
-        width: 45
-        height: 30
+        x: 101
+        y: 389
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_11
       rect:
         serializedVersion: 2
-        x: 90
-        y: 59
-        width: 45
-        height: 30
+        x: 144
+        y: 389
+        width: 18
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 29
-        width: 45
-        height: 30
+        x: 189
+        y: 389
+        width: 18
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_13
       rect:
         serializedVersion: 2
-        x: 45
-        y: 29
-        width: 45
-        height: 30
+        x: 233
+        y: 389
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_14
       rect:
         serializedVersion: 2
-        x: 90
-        y: 29
-        width: 45
-        height: 30
+        x: 271
+        y: 389
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Neptune Sprites Final_15
       rect:
         serializedVersion: 2
-        x: 135
-        y: 149
-        width: 40
-        height: 30
+        x: 314
+        y: 389
+        width: 24
+        height: 28
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 359
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 359
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 359
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 359
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 359
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 359
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 359
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 359
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 329
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 329
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 329
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 329
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 299
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 299
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 299
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 299
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 299
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 270
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 269
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 270
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 270
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 269
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 270
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 239
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 240
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 239
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 210
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 209
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 210
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 209
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 179
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_66
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 179
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 180
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 180
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 179
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 179
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 149
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 149
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_76
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 149
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 149
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 149
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 120
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 111
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 119
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_87
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 120
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_88
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 89
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_89
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 89
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_90
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 89
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 89
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 89
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_94
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 89
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_95
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 89
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 59
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 59
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 59
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_105
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_108
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_110
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_111
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 30
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_113
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_116
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_117
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neptune Sprites Final_119
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
