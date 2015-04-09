@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SlugController : MonoBehaviour {
+public class SlugPatroller : MonoBehaviour {
 	private float speed = 5f;
 	private float currentLerpTime;
 	private float patrolDistance = 1f;
